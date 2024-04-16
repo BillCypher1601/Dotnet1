@@ -11,28 +11,32 @@
     <div class="container">
         <div class="menu-nav">
             <div style="text-align:center">
-                <asp:ImageButton CssClass="icon-nav"  ID="imgbtnMainPage" runat="server" ImageUrl="~\resource\mainpage.png" OnClick="imgbtnMainPage_Click" CausesValidation="false"/>
+                <asp:ImageButton CssClass="icon-nav"  ID="imgbtnMainPage" runat="server" ImageUrl="~\resource\mainpage.png" OnClick="imgbtnADMainPage_Click" CausesValidation="false"/>
             </div>
             <div class="container">
-                <asp:ImageButton CssClass="icon-nav" ID="imgbtnMemberlist" runat="server" ImageUrl="~\resource\mainpage.png"/>
-                <asp:Button CssClass="button-nav" ID="btnMemberlist" runat="server" Text="Danh Sách Thành Viên" OnClick="btnMemberlist_Click" CausesValidation="false"/>
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnAddEmployee" runat="server" ImageUrl="~\resource\mainpage.png"/>
+                <asp:Button CssClass="button-nav" ID="btnAddEmployee" runat="server" Text="Thêm Nhân Viên" OnClick="btnAddEmployee_Click" CausesValidation="false"/>
             </div>
 
             <div class="container">
-                <asp:ImageButton CssClass="icon-nav" ID="imgbtnConbooklist" runat="server" ImageUrl="~\resource\mainpage.png" />
-                <asp:Button CssClass="button-nav" ID="btnConbooklist" runat="server" Text="Danh Sách Tình Trạng Sách" OnClick="btnConbooklist_Click"  CausesValidation="false" />
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnEmployeelist" runat="server" ImageUrl="~\resource\mainpage.png" />
+                <asp:Button CssClass="button-nav" ID="btnEmployeeslist" runat="server" Text="Danh Sách Nhân Viên" OnClick="btnEmployeelist_Click" CausesValidation="false" />
             </div>
             <div class="container">
-                <asp:ImageButton CssClass="icon-nav" ID="imgbtnRentlist" runat="server" ImageUrl="~\resource\mainpage.png" />           
-                <asp:Button CssClass="button-nav" ID="btnRentlist" runat="server" Text="Danh Sách Cho Thuê" OnClick="btnRentlist_Click"/>
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnAddbook" runat="server" ImageUrl="~\resource\mainpage.png" />           
+                <asp:Button CssClass="button-nav" ID="Button1" runat="server" Text="Thêm Sách" OnClick="btnAddbook_Click" CausesValidation="false"/>
             </div>
             <div class="container">
-                <asp:ImageButton CssClass="icon-nav" ID="imgbtnMemberregister" runat="server" ImageUrl="~\resource\mainpage.png" />         
-                <asp:Button CssClass="button-nav" ID="btnMemberregister" runat="server" Text="Đăng Ký Thành Viên Mới" OnClick="btnMemberregister_Click" CausesValidation="false"/>
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnConbookslist" runat="server" ImageUrl="~\resource\mainpage.png" />         
+                <asp:Button CssClass="button-nav" ID="btnConbookslist" runat="server" Text="Danh Sách Sách" OnClick="btnConbookslist_Click" CausesValidation="false"/>
             </div>
             <div class="container">
-                <asp:ImageButton CssClass="icon-nav" ID="imgbtnRentbook" runat="server" ImageUrl="~\resource\mainpage.png" />           
-                <asp:Button CssClass="button-nav" ID="btnRentbook" runat="server" Text="Cho Thuê" OnClick="btnRentbook_Click" CausesValidation="false"/>
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnMemberlist" runat="server" ImageUrl="~\resource\mainpage.png" />           
+                <asp:Button CssClass="button-nav" ID="btnMemberlist" runat="server" Text="Danh Sách Thành Viên" OnClick="btnMemberlist_Click" CausesValidation="false"/>
+            </div>
+            <div class="container">
+                <asp:ImageButton CssClass="icon-nav" ID="imgbtnRentbooklist" runat="server" ImageUrl="~\resource\mainpage.png" />           
+                <asp:Button CssClass="button-nav" ID="btnRentbooklist" runat="server" Text="Danh Sách Cho Thuê" OnClick="btnRentbooklist_Click" CausesValidation="false"/>
             </div>
             <div class="container">
                 <asp:ImageButton CssClass="icon-nav" ID="imgbtnLogout" runat="server" ImageUrl="~\resource\mainpage.png" />
@@ -125,7 +129,7 @@
                 </div>
 
                 <div class="form-group" style="text-align:center">
-                    <asp:Button ID="btnAddbook" runat="server" Text="Thêm sách" CssClass="btn btn-primary" OnClick="btnAddbook_Click" />
+                    <asp:Button ID="btnAddbook" runat="server" Text="Thêm sách" CssClass="btn btn-primary" OnClick="btnAddbookConfirm_Click" />
                 </div>
 
                 <div style="margin-top: 5px; margin-bottom: 5px; text-align: center;">

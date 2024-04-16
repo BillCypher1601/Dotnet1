@@ -17,7 +17,7 @@ namespace RentBook
 
         }
         
-        protected void btnAddbook_Click(object sender, EventArgs e)
+        protected void btnAddbookConfirm_Click(object sender, EventArgs e)
         {
             try
             {
@@ -66,42 +66,46 @@ namespace RentBook
                 lblThongBao.Text = "Không thể thêm sách: " + ex.Message;
             }
         }
+      
 
-    
+        protected void imgbtnADMainPage_Click(object sender, ImageClickEventArgs e)
+        {
+            Response.Redirect("~/admin/Mainpage.aspx");
+        }
 
-    protected void btnMemberlist_Click(object sender, EventArgs e)
+
+        protected void btnAddEmployee_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void imgbtnMainPage_Click(object sender, ImageClickEventArgs e)
+        protected void btnEmployeelist_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Mainpage.aspx");
-        }
 
-        protected void btnConbooklist_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Conbooklist.aspx");
         }
-
-        protected void btnRentlist_Click(object sender, EventArgs e)
+        protected void btnAddbook_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void btnMemberregister_Click(object sender, EventArgs e)
+        protected void btnConbookslist_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/admin/Conbooklist.aspx");
+        }
+
+        protected void btnMemberlist_Click(object sender, EventArgs e)
         {
 
         }
 
-        protected void btnRentbook_Click(object sender, EventArgs e)
+        protected void btnRentbooklist_Click(object sender, EventArgs e)
         {
 
         }
-
         protected void btnLogout_Click(object sender, EventArgs e)
         {
-            Response.Redirect("../Login.aspx");
+            Response.Redirect("~/Login.aspx");
         }
+
     }
 }

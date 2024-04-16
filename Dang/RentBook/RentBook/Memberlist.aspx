@@ -59,7 +59,7 @@
                             </asp:TemplateField>
                             <asp:BoundField DataField="TV_DIACHI" HeaderText="Địa Chỉ" />
                             <asp:BoundField DataField="TV_SDT" HeaderText="Số điện thoại" />
-                            <asp:BoundField DataField="TV_EMAIL" HeaderText="Số điện thoại" />
+                            <asp:BoundField DataField="TV_EMAIL" HeaderText="Email" />
                             <asp:BoundField DataField="TV_NGAYSINH" DataFormatString="{0:dd/MM/yyyy}" HeaderText="Ngày Sinh" ApplyFormatInEditMode="True" />
                             <asp:BoundField DataField="TV_GHICHU" HeaderText="Ghi Chú" />
                             <asp:CommandField SelectText="Chọn" ShowSelectButton="True" />

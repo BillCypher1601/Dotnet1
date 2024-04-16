@@ -198,7 +198,9 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
-    <Content Include="admin-Mainpage.aspx" />
+    <Content Include="admin\Addbook.aspx" />
+    <Content Include="admin\Conbooklist.aspx" />
+    <Content Include="admin\Mainpage.aspx" />
     <Content Include="Changing.js" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
@@ -213,6 +215,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Login.aspx" />
     <Content Include="Mainpage.aspx" />
     <Content Include="Memberlist.aspx" />
     <Content Include="MemberRegister.aspx" />
@@ -375,12 +378,26 @@
     <Compile Include="Account\VerifyPhoneNumber.aspx.designer.cs">
       <DependentUpon>VerifyPhoneNumber.aspx</DependentUpon>
     </Compile>
-    <Compile Include="admin-Mainpage.aspx.cs">
-      <DependentUpon>admin-Mainpage.aspx</DependentUpon>
+    <Compile Include="admin\Addbook.aspx.cs">
+      <DependentUpon>Addbook.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="admin-Mainpage.aspx.designer.cs">
-      <DependentUpon>admin-Mainpage.aspx</DependentUpon>
+    <Compile Include="admin\Addbook.aspx.designer.cs">
+      <DependentUpon>Addbook.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\Conbooklist.aspx.cs">
+      <DependentUpon>Conbooklist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\Conbooklist.aspx.designer.cs">
+      <DependentUpon>Conbooklist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\Mainpage.aspx.cs">
+      <DependentUpon>Mainpage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\Mainpage.aspx.designer.cs">
+      <DependentUpon>Mainpage.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">
@@ -410,6 +427,13 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Mainpage.aspx.cs">
       <DependentUpon>Mainpage.aspx</DependentUpon>

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="admin-Mainpage.aspx.cs" Inherits="RentBook.admin_Mainpage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Mainpage.aspx.cs" Inherits="RentBook.admin_Mainpage" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -48,8 +48,8 @@
             <asp:Label ID="lblMainpage" runat="server" Text="Trang Chủ" Font-Size="50px" ></asp:Label>
             </div>
             <div class="search-container">
-                <asp:TextBox ID="TextBox1" runat="server" placeholder="Searching..." class="search-box"></asp:TextBox>
-                <asp:Button ID="Button1" runat="server" Text="Search" class="search-button" OnClick="Button1_Click"/>
+                <asp:TextBox ID="txtSearch" runat="server" placeholder="Searching..." class="search-box"></asp:TextBox>
+                <asp:Button ID="btnSearch" runat="server" Text="Search" class="search-button" OnClick="Button1_Click"/>
             </div>
 
 

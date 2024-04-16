@@ -22,7 +22,7 @@
 
             <div class="container">
                 <asp:ImageButton CssClass="icon-nav" ID="imgbtnConbooklist" runat="server" ImageUrl="~\resource\mainpage.png" />
-                <asp:Button CssClass="button-nav" ID="btnConbooklist" runat="server" Text="Danh Sách Tình Trạng Sách" OnClick="btnConbooklist_Click"  />
+                <asp:Button CssClass="button-nav" ID="btnConbooklist" runat="server" Text="Danh Sách Sách" OnClick="btnConbooklist_Click"  />
             </div>
             <div class="container">
                 <asp:ImageButton CssClass="icon-nav" ID="imgbtnRentlist" runat="server" ImageUrl="~\resource\mainpage.png" />           

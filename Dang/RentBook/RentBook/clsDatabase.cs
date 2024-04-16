@@ -14,12 +14,12 @@ namespace RentBook
         {
             try
             {
-                con = new SqlConnection("Server=NNDANG;Database=QLKhachHang;uid=sa;pwd=sa1601");
+                con = new SqlConnection("Server=DESKTOP-KHO2NV5\\SQLEXPRESS;Database=Rentbook;Integrated Security=True;");
                 con.Open();
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                return false;
+                Console.WriteLine("Lỗi kết nối: " + ex.Message);
             }
             return true;
         }

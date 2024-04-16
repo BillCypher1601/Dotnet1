@@ -49,13 +49,19 @@
                     <asp:GridView ID="grdTV" runat="server" AllowPaging="True" AutoGenerateColumns="False" BackColor="#E9F0FA" CellPadding="4" GridLines="None" PageSize="5" Width="1000px" DataKeyNames="TV_MA" OnLoad="Page_Load" OnPageIndexChanging="grdTV_PageIndexChanging" OnRowDeleting="grdTV_RowDeleting" OnSelectedIndexChanged="grdTV_SelectedIndexChanged" OnRowCancelingEdit="grdTV_RowCancelingEdit" OnRowEditing="grdTV_RowEditing" OnRowUpdating="grdTV_RowUpdating">
                         <AlternatingRowStyle BackColor="White" />
                         <Columns>
-                            <asp:BoundField DataField="Ma_ThanhVien" HeaderText="Mã Thành Viên" />
-                            <asp:BoundField DataField="HoTen" HeaderText="Họ Tên" />
-                            <asp:BoundField DataField="GioiTinh" HeaderText="Giới Tính" />
-                            <asp:BoundField DataField="DiaChi" HeaderText="Địa Chỉ" />
-                            <asp:BoundField DataField="Email" HeaderText="Email" />
-                            <asp:BoundField DataField="NgaySinh" DataFormatString="{0:dd/MM/yyyy}" HeaderText="Ngày Sinh" ApplyFormatInEditMode="True" />
-                            <asp:BoundField DataField="GhiChu" HeaderText="Ghi Chú" />
+                            <asp:BoundField DataField="TV_MA" HeaderText="Mã Thành Viên" />
+                            <asp:BoundField DataField="TV_TEN" HeaderText="Họ Tên" />
+                            <asp:TemplateField HeaderText="Giới Tính">
+                                <ItemTemplate>
+                                    <asp:Literal runat="server" Text='<%# Convert.ToBoolean(Eval("TV_GT")) ? "Nam" : "Nữ" %>' />
+                                    <asp:CheckBox ID="cboGT" runat="server" Visible="false"/>
+                                </ItemTemplate>
+                            </asp:TemplateField>
+                            <asp:BoundField DataField="TV_DIACHI" HeaderText="Địa Chỉ" />
+                            <asp:BoundField DataField="TV_SDT" HeaderText="Số điện thoại" />
+                            <asp:BoundField DataField="TV_EMAIL" HeaderText="Số điện thoại" />
+                            <asp:BoundField DataField="TV_NGAYSINH" DataFormatString="{0:dd/MM/yyyy}" HeaderText="Ngày Sinh" ApplyFormatInEditMode="True" />
+                            <asp:BoundField DataField="TV_GHICHU" HeaderText="Ghi Chú" />
                             <asp:CommandField SelectText="Chọn" ShowSelectButton="True" />
                             <asp:CommandField CancelText="Hủy" EditText="Sửa" ShowEditButton="True" UpdateText="Cập nhật" />
                             <asp:CommandField DeleteText="Xóa" ShowDeleteButton="True" />

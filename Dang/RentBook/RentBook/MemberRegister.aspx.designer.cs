@@ -184,13 +184,22 @@ namespace RentBook {
         protected global::System.Web.UI.WebControls.Label lblGioiTinh;
         
         /// <summary>
-        /// ddlGioiTinh control.
+        /// RadNam control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList ddlGioiTinh;
+        protected global::System.Web.UI.WebControls.RadioButton RadNam;
+        
+        /// <summary>
+        /// RadNu control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton RadNu;
         
         /// <summary>
         /// lblDiaChi control.
@@ -218,6 +227,33 @@ namespace RentBook {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rf_DiaChi;
+        
+        /// <summary>
+        /// lblSDT control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblSDT;
+        
+        /// <summary>
+        /// txtSDT control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtSDT;
+        
+        /// <summary>
+        /// rf_SDT control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rf_SDT;
         
         /// <summary>
         /// lblEmail control.

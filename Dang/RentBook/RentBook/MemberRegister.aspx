@@ -53,13 +53,10 @@
                     <asp:RequiredFieldValidator ID="rf_HoTen" runat="server" ControlToValidate="txtHoTen" 
                 ErrorMessage="Họ và tên không được để trống" ForeColor="Red">(*)</asp:RequiredFieldValidator>
                 </div>
-                <div class="form-group">
+                <div class="form-group"  style="margin-bottom:10px">
                     <asp:Label ID="lblGioiTinh" runat="server" Text="*Giới tính" CssClass="form-label"></asp:Label>
-                    <asp:DropDownList ID="ddlGioiTinh" runat="server" CssClass="form-control">
-                        <asp:ListItem Value="Nam">Nam</asp:ListItem>
-                        <asp:ListItem Value="Nữ">Nữ</asp:ListItem>
-                        <asp:ListItem Value="Khác">Khác</asp:ListItem>
-                    </asp:DropDownList>
+                    <asp:RadioButton ID="RadNam" runat="server" Text="Nam" Width="150px" GroupName="gt" />
+                    <asp:RadioButton ID="RadNu" runat="server" Text="Nữ" Width="150px" GroupName="gt" />
                 </div>
                 <div class="form-group">
                     <asp:Label ID="lblDiaChi" runat="server" Text="*Địa chỉ" CssClass="form-label"></asp:Label>
@@ -67,6 +64,13 @@
 
                     <asp:RequiredFieldValidator ID="rf_DiaChi" runat="server" ControlToValidate="txtDiaChi" 
                 ErrorMessage="Địa chỉ không được để trống" ForeColor="Red">(*)</asp:RequiredFieldValidator>
+                </div>
+                <div class="form-group">
+                    <asp:Label ID="lblSDT" runat="server" Text="*Số điện thoại" CssClass="form-label"></asp:Label>
+                    <asp:TextBox ID="txtSDT" runat="server" CssClass="form-control" placeholder="Nhập Số Điện Thoại"></asp:TextBox>
+
+                    <asp:RequiredFieldValidator ID="rf_SDT" runat="server" ControlToValidate="txtSDT" 
+                ErrorMessage="Số điện thoại không được để trống" ForeColor="Red">(*)</asp:RequiredFieldValidator>
                 </div>
                 <div class="form-group">
                     <asp:Label ID="lblEmail" runat="server" Text="*Email" CssClass="form-label"></asp:Label>

@@ -6,17 +6,18 @@
 <head runat="server">
     <title>Main Page</title>
     <link rel="stylesheet" type="text/css" href="~/StyleSheet1.css" />
+    <script src="Changing.js"></script>
 </head>
 <body>
     <form id="Mainform" runat="server">
         <div class="container">
         <div class="menu-nav">
             <div style="text-align:center">
-                <asp:ImageButton CssClass="icon-nav"  ID="imgbtnMainPage" runat="server" ImageUrl="~\resource\mainpage.png" OnClick="imgbtnMainPage_Click"/>
+                <asp:ImageButton CssClass="icon-nav"  ID="imgbtnMainPage" runat="server" ImageUrl="~\resource\mainpage.png" OnClientClick="showMainpage()"/>
             </div>
             <div class="container">
                 <asp:ImageButton CssClass="icon-nav" ID="imgbtnMemberlist" runat="server" ImageUrl="~\resource\mainpage.png"/>
-                <asp:Button CssClass="button-nav" ID="btnMemberlist" runat="server" Text="Danh Sách Thành Viên" OnClick="btnMemberlist_Click"/>
+                <asp:Button CssClass="button-nav" ID="btnMemberlist" runat="server" Text="Danh Sách Thành Viên" OnClientClick="showMemberlist()" OnClick="btnMemberlist_Click"/>
             </div>
 
             <div class="container">

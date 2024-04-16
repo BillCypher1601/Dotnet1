@@ -1,0 +1,300 @@
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\appsettings.Development.json
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\appsettings.json
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.exe
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.deps.json
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.runtimeconfig.json
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.runtimeconfig.dev.json
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.Views.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.Views.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Humanizer.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.AssemblyReference.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.AssemblyInfoInputs.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.AssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.CoreCompileInputs.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\scopedcss\bundle\ThuVienOnline.styles.css
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\staticwebassets\ThuVienOnline.StaticWebAssets.Manifest.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.TagHelpers.input.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.TagHelpers.output.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorCoreGenerate.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorTargetAssemblyInfo.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorTargetAssemblyInfo.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.Views.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.CopyComplete
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\refint\ThuVienOnline.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.pdb
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.genruntimeconfig.cache
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ref\ThuVienOnline.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Create.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Edit.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Register.cshtml.g.cs
+D:\LAP TRING NET NANG CAO\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Login.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\appsettings.Development.json
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\appsettings.json
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.exe
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.deps.json
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.runtimeconfig.json
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.runtimeconfig.dev.json
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.Views.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ThuVienOnline.Views.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Humanizer.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.AssemblyReference.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.AssemblyInfoInputs.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.AssemblyInfo.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.CoreCompileInputs.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorAssemblyInfo.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorAssemblyInfo.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\scopedcss\bundle\ThuVienOnline.styles.css
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\staticwebassets\ThuVienOnline.StaticWebAssets.Manifest.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.TagHelpers.input.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.TagHelpers.output.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorCoreGenerate.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Create.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Delete.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Edit.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Login.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Book\Register.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorTargetAssemblyInfo.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.RazorTargetAssemblyInfo.cs
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.Views.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.csproj.CopyComplete
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\refint\ThuVienOnline.dll
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.pdb
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ThuVienOnline.genruntimeconfig.cache
+D:\HOCLAPTRINHANDROID\Nhom1_AppFood_CNTT1302\ShareCode\ThuVienOnline\ThuVienOnline\obj\Debug\net5.0\ref\ThuVienOnline.dll

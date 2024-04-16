@@ -1,0 +1,155 @@
+﻿.container {
+    width: 100%;
+}
+.menu-nav {
+    width: 20%;
+    float: left;
+    background-color: lightgray;
+}
+.main-page {
+    width: 80%;
+    float: left;
+}
+.icon-nav,
+.button-nav {
+    display: inline-block;
+    vertical-align: middle;
+}
+.icon-nav {
+    width: 30%;
+    height: auto;
+    max-width: 50px;
+}
+.button-nav {
+    width: 70%;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.search-box {
+    padding: 10px;
+    font-size: 16px; 
+    width: 80%; 
+}
+
+.search-button {
+    padding: 10px 20px; 
+    font-size: 16px; 
+    width: 20%; 
+    margin-left: 10px; 
+}
+.search-container input[type="text"],
+.search-container button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.search-container input[type="text"] {
+    width: 70%;
+}
+
+.search-container button {
+    width: 28%;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.search-container button:hover {
+    background: #45a049;
+}
+.horizontal-scroll-container {
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap; 
+}
+
+.book-item {
+    display: inline-block;
+    margin-right: 20px; 
+    vertical-align: top;
+}
+
+.book-item img {
+    width: 100px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.book-details {
+    flex-grow: 1;
+}
+
+.book-title {
+    margin-top: 0;
+}
+
+.book-author {
+    font-style: italic;
+}
+
+.book-description {
+    margin-bottom: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #0056b3;
+}
+.form-title {
+    font-weight: bold;
+    color: #333;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.form-container {
+    width: 60%; 
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    margin:auto;
+}
